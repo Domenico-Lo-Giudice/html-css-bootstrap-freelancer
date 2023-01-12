@@ -44,15 +44,15 @@ header > .row {
     color: black;
 }
 
- .contact_me > .row > .col-auto {
-    margin-left: 200px;
-    margin-right: 200px;
+ /* .contact_me > .row > .col-auto {
+    margin-left: 100px;
+    margin-right: 100px;
  }
 
  .contact_me>.row>.col {
-     padding-left: 200px;
-     padding-right: 200px;
- }
+     padding-left: 100px;
+     padding-right: 100px;
+ } */
 
 .footer_top {
     min-height: 200px;
