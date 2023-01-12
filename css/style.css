@@ -1,5 +1,5 @@
-[class*="col"] {
-    border: 1px solid black;
+.debug {
+    border: 1px dashed black;
     
 }
 
@@ -30,6 +30,7 @@ header > .row {
     background-color: white;
     color: black;
 }
+
 
 .about {
     min-height: 500px;
