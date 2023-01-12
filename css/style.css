@@ -44,6 +44,16 @@ header > .row {
     color: black;
 }
 
+ .contact_me > .row > .col-auto {
+    margin-left: 200px;
+    margin-right: 200px;
+ }
+
+ .contact_me>.row>.col {
+     padding-left: 200px;
+     padding-right: 200px;
+ }
+
 .footer_top {
     min-height: 200px;
     background-color: #3A546D;
