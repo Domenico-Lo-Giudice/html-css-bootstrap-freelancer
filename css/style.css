@@ -9,3 +9,38 @@ header > .row {
     min-height: 100px;
 }
 
+.start {
+    min-height: 500px;
+    background-color: #1ABC9C;
+    color: white;
+}
+
+.portfolio {
+    min-height: 1000px;
+    background-color: white;
+    color: black;
+}
+
+.about {
+    min-height: 500px;
+    background-color: #1ABC9C;
+    color: white;
+}
+
+.contact_me {
+    min-height: 800px;
+    background-color: white;
+    color: black;
+}
+
+.footer_top {
+    min-height: 200px;
+    background-color: #3A546D;
+    color: white;
+}
+
+.footer_bottom {
+    min-height: 100px;
+    background-color: #2C3E50;
+    color: white;
+}
