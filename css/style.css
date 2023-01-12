@@ -1,3 +1,9 @@
+[class*="col"] {
+    border: 1px solid black;
+    
+}
+
+
 header {
     min-height: 100px;
     background-color: #2C3E50;
@@ -13,6 +19,10 @@ header > .row {
     min-height: 500px;
     background-color: #1ABC9C;
     color: white;
+}
+
+.start > .row {
+    min-height: 500px;
 }
 
 .portfolio {
