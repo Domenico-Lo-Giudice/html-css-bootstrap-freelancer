@@ -23,7 +23,8 @@ section {
 
 .box.box-img {
 	height: 300px;
-	width: 300px;
+	width: 280px;
+    
 }
 
 .box.box-icon {
@@ -38,12 +39,16 @@ section {
 
 /* FINE CLASSI DI DEBUG DA RIMUOVERE */
 
+header {
+    background-color: #2c3e50
+}
 .navbar-dark {
 	background-color: #2c3e50 !important;
 }
 
 #jumbotron {
     background-color: #1ABC9C;
+    color: white;
 }
 
 #portfolio {
@@ -61,3 +66,4 @@ section {
 footer {
     background-color: #3A546D;
 }
+
