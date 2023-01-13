@@ -24,7 +24,6 @@ section {
 .box.box-img {
 	height: 300px;
 	
-    
 }
 
 .box2.box2-img {
@@ -93,37 +92,37 @@ footer {
 }
 
 .avatar {
-    background-image: url(/img/avatar.svg);
+    background-image: url(./../img/avatar.svg);
     background-size: cover;
 }
 
 .cabin {
-    background-image: url(/img/cabin.png);
+    background-image: url(./../img/cabin.png);
     background-size: cover;
 }
 
 .cake {
-    background-image: url(/img/cake.png);
+    background-image: url(./../img/cake.png);
     background-size: cover;
 }
 
 .circus {
-    background-image: url(/img/circus.png);
+    background-image: url(./../img/circus.png);
     background-size: cover;
 }
 
 .game {
-    background-image: url(/img/game.png);
+    background-image: url(./../img/game.png);
     background-size: cover;
 }
 
 .safe {
-    background-image: url(/img/safe.png);
+    background-image: url(./../img/safe.png);
     background-size: cover;
 }
 
 .submarine {
-    background-image: url(/img/submarine.png);
+    background-image: url(./../img/submarine.png);
     background-size: cover;
 }
 
@@ -134,3 +133,4 @@ footer {
         border-color: white;
         border-style: solid;
 }
+
