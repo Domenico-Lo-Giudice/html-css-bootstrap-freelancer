@@ -77,6 +77,10 @@ footer {
     background-color: #3A546D;
 }
 
+.footer_bottom {
+    background-color: #2C3E50;
+}
+
 .avatar {
     background-image: url(/img/avatar.svg);
     background-size: cover;
