@@ -1,24 +1,24 @@
 /* INIZIO CLASSI DI DEBUG DA RIMUOVERE */
 
-header,
+/* header,
 section {
 	border: 2px dashed green;
-}
+} */
 
 #header {
 	min-height: 80px;
-	border: 2px dashed green;
+	/* border: 2px dashed green; */
 }
 
 [class*="container"] {
 	min-height: 20px;
-	border: 2px dashed orange;
+	/* border: 2px dashed orange; */
 }
 
 [class*="col"],
 #jumbotron>.box {
 	min-height: 80px;
-	border: 2px dashed aqua;
+	/* border: 2px dashed aqua; */
 }
 
 .box.box-img {
@@ -89,41 +89,6 @@ footer {
 .footer_bottom {
     background-color: #2C3E50;
     color: white;
-}
-
-.avatar {
-    background-image: url(./../img/avatar.svg);
-    background-size: cover;
-}
-
-.cabin {
-    background-image: url(./../img/cabin.png);
-    background-size: cover;
-}
-
-.cake {
-    background-image: url(./../img/cake.png);
-    background-size: cover;
-}
-
-.circus {
-    background-image: url(./../img/circus.png);
-    background-size: cover;
-}
-
-.game {
-    background-image: url(./../img/game.png);
-    background-size: cover;
-}
-
-.safe {
-    background-image: url(./../img/safe.png);
-    background-size: cover;
-}
-
-.submarine {
-    background-image: url(./../img/submarine.png);
-    background-size: cover;
 }
 
 .send {
