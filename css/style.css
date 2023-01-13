@@ -67,6 +67,15 @@ header {
 
 #about {
     background-color: #1ABC9C;
+    color: white;
+}
+
+.col-auto > .download {
+    color: white;
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
 }
 
 #contacts {
