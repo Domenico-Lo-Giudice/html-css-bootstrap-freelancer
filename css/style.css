@@ -127,3 +127,10 @@ footer {
     background-size: cover;
 }
 
+.send {
+    color: white;
+        background-color: #1ABC9C;
+        border-radius: 5px;
+        border-color: white;
+        border-style: solid;
+}
